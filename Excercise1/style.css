@@ -1,0 +1,15 @@
+#CookieCounter {
+    border: 10px dotted black;
+    text-align: center;
+    font-size: xx-large;
+    margin-top: 50px;
+}
+
+img {
+    /* display: flexbox;
+    justify-content: center; */
+    width: 200px;
+    margin-top: 20px;
+    margin-left: 290px;
+    cursor: pointer;
+}
